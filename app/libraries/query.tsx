@@ -28,7 +28,7 @@ export const queryProject = {
   colorFrom: 'from-red-500',
   colorTo: 'to-amber-500',
   textColor: 'text-amber-500',
-  frameworks: ['react', 'solid', 'vue', 'svelte', 'angular'],
+  frameworks: ['react', 'solid', 'vue', 'svelte', 'angular', 'vanilla'],
   scarfId: '53afb586-3934-4624-a37a-e680c1528e17',
   defaultDocs: 'framework/react/overview',
   handleRedirects: (href: string) => {
